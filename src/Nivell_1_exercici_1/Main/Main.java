@@ -1,4 +1,8 @@
-package Nivell_1_exercici_1;
+package Nivell_1_exercici_1.Main;
+
+import Nivell_1_exercici_1.Clases.Cuerda;
+import Nivell_1_exercici_1.Clases.Percusion;
+import Nivell_1_exercici_1.Clases.Viento;
 
 public class Main {
 

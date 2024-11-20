@@ -1,4 +1,4 @@
-package Nivell_1_exercici_1;
+package Nivell_1_exercici_1.Clases;
 
 public abstract class Instrumento {
 

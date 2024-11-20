@@ -1,4 +1,4 @@
-package Nivell_1_exercici_2;
+package Nivell_1_exercici_2.Clases;
 
 public class Coche {
 
@@ -12,7 +12,7 @@ public class Coche {
 
     }
 
-    static void frenar() {
+    public static void frenar() {
         System.out.println("El vehiculo esta frenando");
     }
 

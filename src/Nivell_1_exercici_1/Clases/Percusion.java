@@ -1,11 +1,13 @@
-package Nivell_1_exercici_1;
+package Nivell_1_exercici_1.Clases;
 
-public class Percusion extends Instrumento{
+import Nivell_1_exercici_1.Clases.Instrumento;
+
+public class Percusion extends Instrumento {
     public Percusion(String nombre, Integer precio) {
         super(nombre, precio);
     }
 
-    void tocar() {
+    public void tocar() {
         System.out.println("Se esta tocando un instrumento de percusion.");
     }
 }

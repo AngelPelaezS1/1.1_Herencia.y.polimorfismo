@@ -1,4 +1,6 @@
-package Nivell_1_exercici_2;
+package Nivell_1_exercici_2.Main;
+
+import Nivell_1_exercici_2.Clases.Coche;
 
 public class Main {
 
