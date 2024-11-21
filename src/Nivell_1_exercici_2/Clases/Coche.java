@@ -2,8 +2,8 @@ package Nivell_1_exercici_2.Clases;
 
 public class Coche {
 
-   private static final String Marca = "Mercedes";
-   private static String Modelo = "AMG";
+   private static final String marca = "Mercedes";
+   private static String modelo = "AMG";
    private final int potencia;
 
 
