@@ -1,6 +1,6 @@
 package Nivell_2_exercici_1.Main;
 
-import Nivell_2_exercici_1.Moduls.Smartphone;
+import Nivell_2_exercici_1.Modulos.Smartphone;
 
 public class Main {
 

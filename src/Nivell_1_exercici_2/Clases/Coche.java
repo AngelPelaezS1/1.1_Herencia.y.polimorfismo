@@ -3,12 +3,14 @@ package Nivell_1_exercici_2.Clases;
 public class Coche {
 
    private static final String marca = "Mercedes";
-   private static String modelo = "AMG";
+   private static String modelo;
    private final int potencia;
 
 
-    public Coche(int potencia) {
+    public Coche(String modelo, int potencia) {
         this.potencia = potencia;
+        this.modelo = modelo;
+
 
     }
 

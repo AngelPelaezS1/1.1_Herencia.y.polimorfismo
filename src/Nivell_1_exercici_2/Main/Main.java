@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Coche coche = new Coche(3000);
+        Coche coche = new Coche("AMG",3000);
 
         System.out.println(coche) ;
         coche.acelerar();
